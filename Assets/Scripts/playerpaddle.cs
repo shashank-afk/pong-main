@@ -16,6 +16,7 @@ public class playerpaddle : paddle
                 _direction = Vector2.down ;
                 print("S is being pressed");
             }
+        
         else
         {
             _direction = Vector2.zero ;
